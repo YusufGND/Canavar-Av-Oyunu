@@ -1,3 +1,6 @@
+*{
+    font-family: Courier;
+}
 .text-center {
     display: flex;
     justify-content: center;
